@@ -19,7 +19,7 @@ Llama is a family of large language models (LLMs) developed by Meta, empowering 
 Discover official resources and start building with Llama.
 
 - 🔗 [Official Llama Website](https://www.llama.com/)
-- 📚 [Official Documentation](https://ai.meta.com/llama/get-started/)
+- 📚 [Official Documentation](https://dev.meta.ai/docs/overview)
 - 💻 [Llama Models on GitHub](https://github.com/meta-llama/llama-models)
 - 🤗 [Llama Models on Hugging Face](https://huggingface.co/meta-llama)
 - 🛡️ [PurpleLlama — AI Safety](https://github.com/meta-llama/PurpleLlama)
